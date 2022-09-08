@@ -5,8 +5,4 @@
 - 📚 Later I will study Node/Express
 - ⚽ In my free time, I work out at the gym, play footvolley and football
 - 📫 You can reach me by email: paulofarahalves@hotmail.com
-
-<!---
-paulofarahalves/paulofarahalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💼 [LinkedIn](https://www.linkedin.com/in/paulofarahalves/)
