@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Paulo Farah Alves (27). I'm a Mechanical Engineer who loves programming
-- 👀 I’m interested in Back-end development
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m Paulo Farah Alves (27)
+- 📍  From São Paulo, Brasil
+- 🎓 Mechanical Engineer who loves programming
+- 👀 Interested in Back-end development
+- 🌱 Currently learning Javascript
 - ✔️ I've already learned HTML5 and CSS3 from B7Web course
 - 📚 Later I will study Node/Express
 - ⚽ In my free time, I work out at the gym, play footvolley and football
