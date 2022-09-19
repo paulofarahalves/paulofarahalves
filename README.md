@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paulo Farah Alves (27)
--  📍 From São Paulo, Brasil
+- 🌎 From São Paulo, Brasil
 - 🎓 Mechanical Engineer who loves programming
 - 👀 Interested in Back-end development
 - 🌱 Currently learning Javascript
