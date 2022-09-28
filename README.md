@@ -2,9 +2,9 @@
 - 🌎 From São Paulo, Brasil
 - 🎓 Mechanical Engineer who loves programming
 - 👀 Interested in Back-end development
-- 🌱 Currently learning Javascript
-- ✔️ I've already learned HTML5 and CSS3 from B7Web course
-- 📚 Later I will study Node/Express
+- 🌱 Currently learning NodeJs
+- ✔️ I've already learned HTML5, CSS3, Javascript and Typescript from B7Web course
+- 📚 Later I will study Express framework
 - ⚽ In my free time, I work out at the gym, play footvolley and football
 - 📫 You can reach me by email: paulofarahalves@hotmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulofarahalves/)
