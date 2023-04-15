@@ -2,9 +2,9 @@
 - 🌎  From São Paulo, Brasil
 - 🎓  Mechanical Engineer who loves programming
 - 👀  Interested in Front-end development
-- 🌱  Currently studying React Native
+- 🌱  Currently studying NodeJS
 - ✔️  I've already learned HTML5, CSS3, Javascript, Typescript, React, Bootstrap and Sass from B7Web course
-- 📚  Later I will study NodeJS
+- 📚  Later I will study React Native
 - ⚽ In my free time, I work out at the gym, play footvolley and football
 - 📫  You can reach me by email: paulofarahalves@hotmail.com
 - 👤  [LinkedIn](https://www.linkedin.com/in/paulofarahalves/)
