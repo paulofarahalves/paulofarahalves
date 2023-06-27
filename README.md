@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Paulo Farah Alves (28)
 - 🌎  From São Paulo, Brasil
 - 🎓  Mechanical Engineer who loves programming
-- 👀  Interested in Front-End Web Development
+- 👀  Interested in Frontend Web Development
 - 🌱  Currently studying NodeJS
 - 📚  Later I will study NextJS
 - ⚽ In my free time, I work out at the gym, play footvolley and football
