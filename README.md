@@ -2,8 +2,8 @@
 - 🌎  From São Paulo, Brasil
 - 🎓  Mechanical Engineer who loves programming
 - 👀  Interested in Frontend Web Development
-- 🌱  Currently studying NodeJS
-- 📚  Later I will study NextJS
+- 🌱  Currently studying NextJS
+- 📚  Later I will study SCRUM
 - ⚽ In my free time, I work out at the gym, play footvolley and football
 - 📫  You can reach me by email: paulofarahalves@hotmail.com<!-- - 👤  [LinkedIn](https://www.linkedin.com/in/paulofarahalves/) -->
 - <a href="https://www.linkedin.com/in/paulofarahalves/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="15" height="15"/></a> &nbsp;<a href="https://www.linkedin.com/in/paulofarahalves/" target="_blank" rel="noreferrer">paulofarahalves</a>
